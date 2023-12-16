@@ -1,0 +1,27 @@
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(12, 179, 179);
+    text-align: center;
+}
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+body {
+    background-color: rgb(233, 160, 235);
+}
+.list {
+    padding-left: 650px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.backtotop {
+    text-align: center;
+}
+.tableau {
+    padding-left: 250px;
+}
+.resume {
+    text-align: center;
+    font-size: larger;
+}
